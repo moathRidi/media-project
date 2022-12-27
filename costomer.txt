@@ -1,0 +1,1 @@
+ Customer ID=121, CustomerName= ali, CustomerAdress = qusra, mobile number= 0599149935, Customer plan= LIMITED ,limSize=2
